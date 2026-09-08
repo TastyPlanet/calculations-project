@@ -1,0 +1,132 @@
+W2	Album	All For You	Stevie Hoang
+W2	Album	周杰倫的床邊故事	周杰倫
+W2	Album	最偉大的作品	周杰倫
+W2	Album	不良少年	徐良
+W2	Album	F.I.R.	F.I.R.
+W2	Album	花花宇宙	陈慧琳
+W2	Single	Red Liberation	fripSide
+W2	Single	マイクロレボリューション	TrySail
+W2	Single	君じゃなきゃダメみたい	オーイシマサヨシ（大石昌良）
+W2	Single	ウラオモテ・フォーチュン	佐倉千代（CV.小澤亜李）
+W2	Single	動く、動く	チト（CV.水瀬いのり）、ユーリ（CV.久保ユリカ）
+W2	Single	More One Night	チト（CV.水瀬いのり）、ユーリ（CV.久保ユリカ）
+W2	Single	ブループリント	ナナヲアカリ
+W2	Compilation	HARDCORE SYNDROME 14	HARDCORE TANO*C
+W2	Compilation	HARDCORE SYNDROME 15	HARDCORE TANO*C
+W2	Compilation	HARDCORE SYNDROME 16	HARDCORE TANO*C
+W2	Compilation	HARDCORE SYNDROME 17	HARDCORE TANO*C
+W2	Compilation	HARDCORE SYNDROME 18	HARDCORE TANO*C
+W3	Single	ブループリント (Special Edition)	ナナヲアカリ
+W3	Single	Daydream café	Petit Rabbit's
+W3	Single	ぽっぴんジャンプ♪	チマメ隊
+W3	Single	ノーポイッ!	Petit Rabbit's
+W3	Single	ときめきポポロン♪	チマメ隊
+W3	Single	天空カフェテリア	Petit Rabbit's
+W3	Single	なかよし！○！なかよし！	チマメ隊
+W3	Single	セカイがカフェになっちゃった!	Petit Rabbit's with beans
+W3	Single	しんがーそんぐぱやぽやメロディー	Petit Rabbit's with beans
+W3	Single	ふ･れ･ん･ど･し･た･い	学園生活部
+W3	Single	ハーモナイズ・クローバー/アフターグロウ	黑崎真音
+W3	Single	TVアニメ「がっこうぐらし!」キャラクターソング①	由紀&美紀
+W3	Single	TVアニメ「がっこうぐらし!」キャラクターソング②	胡桃&悠里
+W3	Single	TVアニメ「がっこうぐらし!」キャラクターソング③	悠里&由紀
+W3	Single	TVアニメ「がっこうぐらし!」キャラクターソング④	美紀&胡桃
+W3	Compilation	HARDCORE SYNDROME 19	HARDCORE TANO*C
+W3	Compilation	IRREGULAR NATION 2	HARDCORE TANO*C
+W3	Compilation	IRREGULAR NATION 3	HARDCORE TANO*C
+W3	Compilation	IRREGULAR NATION 4	HARDCORE TANO*C
+W3	OST	魔法少女ノ魔女裁判 コンプリートオリジナルサウンドトラック	
+W3	OST	NOIR ORIGINAL SOUNDTRACK I	
+W3	OST	NOIR ORIGINAL SOUNDTRACK II	
+W3	OST	「NOIR」blanc dans NOIR～黒の中の白～	
+W3	OST	ぼっち・ざ・ろっく! オリジナルサウンドトラックvol.1	
+W3	OST	ぼっち・ざ・ろっく! オリジナルサウンドトラックvol.2	
+W4	Album	初音ミクの消失	cosMo@暴走P
+W4	Single	staple stable & あとがたり	
+W4	Single	帰り道 & あとがたり	
+W4	Single	ambivalent world & あとがたり	
+W4	Single	恋愛サーキュレーション & あとがたり	
+W4	Single	月光/街	Vivid BAD SQUAD
+W4	Single	STAGE OF SEKAI/Peaky Peaky	Leo/need
+W4	Single	オーダーメイド/てらてら	Leo/need
+W4	Single	イフ/パラソルサイダー	MORE MORE JUMP!
+W4	Single	88☆彡/星空のメロディー	ワンダーランズ×ショウタイム
+W4	Single	虚ろを扇ぐ/仮死化	Vivid BAD SQUAD
+W4	Single	Voices/the WALL	Leo/need
+W4	Single	DREAM PLACE/フロート・プランナー	MORE MORE JUMP!
+W4	Single	君の夜をくれ/Iなんです	25時、ナイトコードで。
+W4	Single	どんな結末がお望みだい？/星空オーケストラ	ワンダーランズ×ショウタイム
+W4	Cover	からかい上手の高木さん Cover Song Collection	高橋李依
+W4	Cover	からかい上手の高木さん2 Cover Song Collection	高橋李依
+W4	Compilation	IRREGULAR NATION 5	HARDCORE TANO*C
+W4	Compilation	IRREGULAR NATION 6	HARDCORE TANO*C
+W5	Compilation	IRREGULAR NATION 7	HARDCORE TANO*C
+W5	Compilation	IRREGULAR NATION 8	HARDCORE TANO*C
+W5	Compilation	IRREGULAR NATION 9	HARDCORE TANO*C
+W5	OST	Aladdin: Original Motion Picture Soundtrack	
+W6	OST	Relay - ghostpia Season One Original Soundtrack	
+W6	OST	Cytus II-Paff Original Soundtrack	
+W6	OST	Cytus II-Neko Original Soundtrack	
+W6	OST	Cytus II-Robo_head Original Soundtrack	
+W6	OST	Cytus II-Ivy Original Soundtrack	
+W6	OST	Cytus II-Vanessa Original Soundtrack	
+W6	OST	Cytus II-Xenon Original Soundtrack	
+W6	OST	Cytus II-Cherry Original Soundtrack	
+W6	OST	Cytus II-Conner Original Soundtrack	
+W6	OST	Cytus II-Joe Original Soundtrack	
+W6	OST	Cytus II-Sagar Original Soundtrack	
+W6	OST	Cytus II-Rin Original Soundtrack	
+W6	OST	Cytus II-Ilka Original Soundtrack	
+W6	Album	After the End	a_hisa
+W7	Album	ULTIMATE HAPPY CARNIVAL	DJ Genki
+W7	Compilation	HARDCORE UTOPIA	
+W7	Compilation	HARDCORE UTOPIA 2	
+W7	Compilation	HARDCORE UTOPIA 3	
+W7	Compilation	HARDCORE UTOPIA 4	
+W8	Album	VSQ Performs Lady Gaga	Vitamin String Quartet
+W8	Album	Selentia	Sakuzyo
+W8	Album	L'aventale	Sakuzyo
+W8	Album	fairythm	Sakuzyo
+W9	Album	相愛性理論	DECO*27
+W9	Album	The Romantic	Bruno Mars
+W9	EP	FREE YOUR MIND	flumpool
+W14	Single	TVアニメ『アズールレーン』キャラクターソングシングル Vol.1 エンタープライズ	エンタープライズ（CV.石川由依）
+W14	Single	TVアニメ『アズールレーン』キャラクターソングシングル Vol.2 ラフィー	ラフィー（CV.長縄まりあ）
+W14	Single	TVアニメ『アズールレーン』キャラクターソングシングル Vol.3 ジャベリン	ジャベリン（CV.山根希美）
+W14	Single	TVアニメ『アズールレーン』キャラクターソングシングル Vol.4 綾波	綾波（CV.大地葉）
+W14	Single	TVアニメ『アズールレーン』キャラクターソングシングル Vol.5 Z23	Z23（CV.阿部里果）
+W14	Single	TVアニメ『アズールレーン』キャラクターソングシングル Vol.6 ユニコーン	ユニコーン（CV.加隈亜衣）
+W14	Single	TVアニメ『アズールレーン』キャラクターソングシングル Vol.7 クリーブランド	クリーブランド（CV.堀籠沙耶）
+W14	Single	TVアニメ『アズールレーン』キャラクターソングシングル Vol.8 加賀	加賀（CV.茅野愛衣）
+W14	Single	TVアニメ『アズールレーン』キャラクターソングシングル Vol.9 赤城	赤城（CV.中原麻衣）
+W14	Single	TVアニメ『アズールレーン』キャラクターソングシングル Vol.10 ベルファスト	ベルファスト（CV.堀江由衣）
+W14	Single	TVアニメ『アズールレーン』バディキャラクターソングシングル Vol.1 プリンツ・オイゲン、プリンス・オブ・ウェールズ	プリンツ・オイゲン（CV:佐倉綾音）、プリンス・オブ・ウェールズ（CV:橋本ちなみ）
+W14	Single	TVアニメ『アズールレーン』バディキャラクターソングシングル Vol.2 クイーン・エリザベス & ウォースパイト	クイーン・エリザベス & ウォースパイト（CV.上坂すみれ）
+W14	Single	TVアニメ『アズールレーン』バディキャラクターソングシングル Vol.3 クリーブランド四姉妹	クリーブランド四姉妹
+W14	Single	TVアニメ『アズールレーン』バディキャラクターソングシングル Vol.4 愛宕 & 高雄	愛宕 & 高雄
+W14	Single	TVアニメ『アズールレーン』バディキャラクターソングシングル Vol.5 企业 & 赤城	企业 & 赤城
+W14	Compilation	Diverse Style from "B"	Diverse System
+W14	Compilation	Diverse Style from "B" 2nd style.	Diverse System
+W14	Compilation	Diverse Style from "B" 1st & 2nd	Diverse System
+W14	Compilation	Diverse Style from "B" 3rd style [Normal]	Diverse System
+W14	Compilation	Diverse Style from "B" 3rd style [Versus]	Diverse System
+W14	Compilation	Diverse Style from "B" 4th style	Diverse System
+W14	Compilation	Diverse Style from "B" 5th style	Diverse System
+W14	Compilation	Diverse Style from "B" 6th style	Diverse System
+W14	Compilation	Dear,Mr.180	Diverse System
+W14	Compilation	Side-C	Diverse System
+W14	Compilation	Diverse System Original ＃1	Diverse System
+W14	Compilation	Diverse System Original ＃2	Diverse System
+W14	Compilation	Diverse System Original ＃3	Diverse System
+W14	Compilation	IRREGULAR NATION 10	HARDCORE TANO*C
+W14	Compilation	IRREGULAR NATION 11	HARDCORE TANO*C
+W14	Compilation	Bright Colors 3	HARDCORE TANO*C
+W14	Compilation	Bright Colors 4	HARDCORE TANO*C
+W14	Compilation	Bright Colors 5	HARDCORE TANO*C
+W14	Compilation	Bright Colors 6	HARDCORE TANO*C
+W14	EP	最高	Higher Brothers
+W14	OST	Dinosaur	James Newton Howard
+W14	OST	化物語 音楽全集 Songs & Soundtracks	
+W14	Album	fiction	しぐれうい
+W14	Cover	「からかい上手の高木さん３＆劇場版」Cover Song Collection	高木さん（CV：高橋李依）
+W17	Single	恋のビギナーなんです (T_T)	山口理恵
