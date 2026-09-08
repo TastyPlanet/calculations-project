@@ -5,7 +5,7 @@
 ## 文章列表
 | 序号 | 文章标题 | 更新时间 | 字数统计 | 插图统计 |
 |:------:|:------------------:|:------------------:|:------:|:------:|
-| 1 | [「Diary」2026](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/28) | 2026-09-07 21:14 | 99849 | 1 |
+| 1 | [「Diary」2026](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/28) | 2026-09-08 11:36 | 101626 | 1 |
 | 2 | [「Diary」2019](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/21) | 2026-09-01 14:08 | 3933 | 24 |
 | 3 | [「Diary」2002 & 2003](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/14) | 2026-06-16 17:48 | 2343 | 0 |
 | 4 | [「Diary」2006 & 2007](https://github.com/volatile-Quartz/Dr_Wunderkammer/issues/16) | 2026-06-16 17:48 | 2068 | 0 |
@@ -24,9 +24,9 @@
 
 
 ## 博客统计
-- 最后更新: 2026-09-08 10:21:45
+- 最后更新: 2026-09-08 11:36:48
 - 总文章数: 16
 - 新增文章: 0
 - 更新文章: 1
-- 总字数: 108457
+- 总字数: 110234
 - 总插图数: 25
