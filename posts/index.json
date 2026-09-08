@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T07:21:35.805713+00:00",
+  "generated_at": "2026-09-08T09:42:03.529195+00:00",
   "entries": [
     {
       "path": "my-diary/Diary-2021/00_index.md",
@@ -89,7 +89,7 @@
       "word_count": 1351,
       "image_count": 0,
       "file_size": 7380,
-      "sha256_short": "fffc99431434b1a2"
+      "sha256_short": "354bef1f1739a539"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦.md",
@@ -347,10 +347,10 @@
       "path": "my-diary/Diary-2026/29_第29周（2026.07.13-2026.07.19）.md",
       "title": "第29周（2026.07.13-2026.07.19）",
       "label": "my-diary/Diary-2026",
-      "word_count": 674,
+      "word_count": 589,
       "image_count": 0,
-      "file_size": 2245,
-      "sha256_short": "d3b43a5b3d88f6f6"
+      "file_size": 1948,
+      "sha256_short": "0d082063e40819db"
     },
     {
       "path": "my-diary/Diary-2026/30_第30周（2026.07.20-2026.07.26）.md",
@@ -567,25 +567,7 @@
       "image_count": 0,
       "file_size": 168,
       "sha256_short": "a17210b3b9e338be"
-    },
-    {
-      "path": "no-label/Bump.actions-checkout.from.6.to.7.in.the.github-actions.group.md",
-      "title": "Bump.actions-checkout.from.6.to.7.in.the.github-actions.group.md",
-      "label": "no-label",
-      "word_count": 1064,
-      "image_count": 1,
-      "file_size": 17334,
-      "sha256_short": "a25fdc665ddf2f23"
-    },
-    {
-      "path": "no-label/Bump.the.github-actions.group.across.1.directory.with.2.updates.md",
-      "title": "Bump.the.github-actions.group.across.1.directory.with.2.updates.md",
-      "label": "no-label",
-      "word_count": 1472,
-      "image_count": 0,
-      "file_size": 25753,
-      "sha256_short": "3fac7573deafbe3e"
     }
   ],
-  "total_files": 65
+  "total_files": 63
 }
