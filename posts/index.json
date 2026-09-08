@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T07:19:24.352679+00:00",
+  "generated_at": "2026-09-08T07:20:41.647807+00:00",
   "entries": [
     {
       "path": "my-diary/Diary-2021/00_index.md",
@@ -89,7 +89,7 @@
       "word_count": 1351,
       "image_count": 0,
       "file_size": 7380,
-      "sha256_short": "99e1ffceb6b2f6e7"
+      "sha256_short": "a44ac096dd72fd27"
     },
     {
       "path": "my-diary/Diary-2026/01_第1周（2025.12.29-2026.01.04）元旦.md",
@@ -302,10 +302,10 @@
       "path": "my-diary/Diary-2026/24_第24周（2026.06.08-2026.06.14）.md",
       "title": "第24周（2026.06.08-2026.06.14）",
       "label": "my-diary/Diary-2026",
-      "word_count": 956,
+      "word_count": 911,
       "image_count": 0,
-      "file_size": 3471,
-      "sha256_short": "f53604884420b8f2"
+      "file_size": 3287,
+      "sha256_short": "d6c906bcffe9f675"
     },
     {
       "path": "my-diary/Diary-2026/25_第25周（2026.06.15-2026.06.21）.md",
